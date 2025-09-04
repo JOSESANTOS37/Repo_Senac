@@ -11,10 +11,8 @@ while True:
         print ('Digite um nº válido')
 
  for i in Cliente
-    print(i)
+    print(i)'''
 
-'''''
-#lista de opções#
 
 print('1\n2\n3\n4')
 
@@ -28,6 +26,11 @@ while True:
             print('opçaõ inválida')
     except:
         print('Digite um número válido')
+
+
+
+
+
 
 
 
