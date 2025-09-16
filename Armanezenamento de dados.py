@@ -14,7 +14,7 @@ while True:
     print(i)'''
 
 
-print('1\n2\n3\n4')
+'''print('1\n2\n3\n4')
 
 while True:
     try:
@@ -25,7 +25,7 @@ while True:
         else:
             print('opçaõ inválida')
     except:
-        print('Digite um número válido')
+        print('Digite um número válido')'''
 
 
 

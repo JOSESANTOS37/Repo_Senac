@@ -1,3 +1,5 @@
+#01/09/2025#
+
 od_ini = float(input("Odômetro inicial (km): "))
 od_fim = float(input("Odômetro final (km): "))
 litros = float(input("Litros consumidos: "))

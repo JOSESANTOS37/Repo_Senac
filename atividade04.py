@@ -1,3 +1,5 @@
+#01/09/2025#
+
 n1 = float(input("Nota 1: "))
 n2 = float(input("Nota 2: "))
 opt = float(input("Optativa (ou -1 se não fez): "))

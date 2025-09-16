@@ -1,3 +1,5 @@
+#01/09/2025#
+
 n = float(input("Digite um número: "))
 if n >= 0:
     print("Positivo")

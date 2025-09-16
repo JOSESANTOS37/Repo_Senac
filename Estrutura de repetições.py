@@ -36,13 +36,13 @@ print ('Esse número é maior que 10')'''
 
 while True:
     try:
-        numero = int(input('De qual número é a tabuada? '))
+        numero = int(input('Digite número para ver a tabuada? '))
         break
     except:
         print ('Tente novamente')
 
 for i in range(1,11):
-    print(numero' x {i} = {numero} * i}')
+    print(f'numero x {i} = {7 * i}')
 
 
     
