@@ -19,7 +19,7 @@ while True:
 while True:
     try:
         opcao = int(input('Opcao:'))
-        if opcao in [1,2,3,4]:
+        if opcao in [1,2,3,4]:git
             print('opção ok')
             break
         else:
